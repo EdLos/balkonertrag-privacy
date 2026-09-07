@@ -1,17 +1,24 @@
 # Datenschutzerklärung für Balkonertrag
 
-Stand: 5. September 2026
+Stand: 7. September 2026
 
 ## 1. Verantwortlicher
 
+Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO ist:
+
 Eduard Losing<br>
-E-Mail: [vitality.adepts@gmail.com](mailto:vitality.adepts@gmail.com)
+Ermiger Str. 26/1<br>
+89134 Blaustein<br>
+Deutschland<br>
+E-Mail: [edik.losing@googlemail.com](mailto:edik.losing@googlemail.com)
 
 ## 2. Lokale App-Daten
 
 Balkonertrag benötigt kein Benutzerkonto. Angaben zu Anlagen, Zählerständen,
 Strompreisen und Einstellungen werden lokal auf dem verwendeten Gerät gespeichert.
-Diese fachlichen App-Daten werden von uns nicht auf eigene Server übertragen.
+Diese fachlichen App-Daten werden von uns nicht auf eigene Server übertragen. Wir haben
+keinen Zugriff darauf. Die App enthält keine Analyse-, Tracking- oder
+Absturzberichts-SDKs.
 
 Wenn Nutzer eine Export-, Backup- oder Teilen-Funktion auslösen, bestimmen sie selbst,
 an welche ausgewählte App oder Person die exportierten Daten weitergegeben werden.
@@ -22,8 +29,26 @@ Die kostenlose Version enthält Google AdMob und die Google User Messaging Platf
 (UMP). In Testversionen können ausschließlich Google-Testanzeigen verwendet werden.
 Die Google-Dienste können technische Daten verarbeiten, insbesondere Geräte- oder
 Werbe-IDs, IP-Adresse, ungefähren Standort, Anzeigeninteraktionen, Diagnose- und
-Leistungsdaten sowie den Einwilligungsstatus. Die Verarbeitung richtet sich nach den
-Einstellungen und der Einwilligung des Nutzers.
+Leistungsdaten sowie den Einwilligungsstatus. Zählerstände und die übrigen fachlichen
+App-Daten werden dabei nicht übermittelt.
+
+Anbieter ist Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+
+**Rechtsgrundlage.** Vor der ersten Anzeigenauslieferung wird über das
+Einwilligungsformular der UMP eine Entscheidung eingeholt. Personalisierte Werbung und
+das Speichern beziehungsweise Auslesen von Informationen auf dem Endgerät erfolgen nur
+bei Einwilligung, Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit § 25 Abs. 1 TDDDG. Wird
+die Einwilligung verweigert, werden nicht personalisierte Anzeigen ausgeliefert; die
+dafür technisch erforderliche Verarbeitung stützt sich auf Art. 6 Abs. 1 lit. f DSGVO
+(Interesse an der Finanzierung der kostenlosen Version). Auf iOS wird zusätzlich der
+Systemdialog zur App-Tracking-Transparenz (ATT) angezeigt; ohne Zustimmung wird die
+Werbekennung IDFA nicht verwendet.
+
+**Widerruf.** Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen
+oder geändert werden: in der App unter „Mehr" → „Datenschutz" → „Werbe-Einstellungen".
+Dort öffnet sich dasselbe Formular erneut. Die Rechtmäßigkeit der bis zum Widerruf
+erfolgten Verarbeitung bleibt unberührt. Mit dem Kauf von Balkonertrag Pro entfällt die
+Werbung und damit diese Verarbeitung vollständig.
 
 Weitere Informationen:
 
@@ -49,12 +74,37 @@ Lokal gespeicherte App-Daten bleiben auf dem Gerät, bis sie in der App gelösch
 die App mitsamt ihren Daten deinstalliert wird. Für Daten, die Google im Rahmen der
 Werbedienste verarbeitet, gelten die Speicherdauern von Google.
 
-## 7. Rechte und Kontakt
+## 7. Übermittlung in Drittländer
 
-Bei Fragen zum Datenschutz oder zur Ausübung gesetzlicher Datenschutzrechte kann die
-oben genannte E-Mail-Adresse verwendet werden. Da die fachlichen App-Daten nicht an
-unsere Server übermittelt werden, können wir lokal gespeicherte Daten nicht einsehen
-oder für Nutzer löschen.
+Die eingesetzten Google-Dienste können Daten auch an Server von Google LLC in den
+Vereinigten Staaten übermitteln. Google LLC ist unter dem EU-US Data Privacy Framework
+zertifiziert; die Übermittlung stützt sich auf den Angemessenheitsbeschluss der
+Europäischen Kommission vom 10. Juli 2023 (Art. 45 DSGVO), ergänzend auf
+Standardvertragsklauseln nach Art. 46 Abs. 2 lit. c DSGVO.
+
+## 8. Rechte der betroffenen Personen
+
+Nach der DSGVO bestehen die folgenden Rechte:
+
+- Auskunft über die verarbeiteten Daten (Art. 15)
+- Berichtigung unrichtiger Daten (Art. 16)
+- Löschung (Art. 17) und Einschränkung der Verarbeitung (Art. 18)
+- Datenübertragbarkeit (Art. 20)
+- Widerspruch gegen Verarbeitungen auf Grundlage von Art. 6 Abs. 1 lit. f (Art. 21)
+- Widerruf einer erteilten Einwilligung (Art. 7 Abs. 3), siehe Abschnitt 3
+
+Zur Ausübung genügt eine Nachricht an die oben genannte E-Mail-Adresse. Da die
+fachlichen App-Daten nicht an unsere Server übermittelt werden, können wir lokal
+gespeicherte Daten weder einsehen noch für Nutzer löschen; sie lassen sich jederzeit in
+der App selbst löschen oder durch Deinstallation entfernen. Rechte, die sich auf die von
+Google verarbeiteten Werbedaten beziehen, können zusätzlich direkt gegenüber Google
+geltend gemacht werden.
+
+**Beschwerderecht.** Es besteht das Recht, sich bei einer Datenschutz-Aufsichtsbehörde
+zu beschweren (Art. 77 DSGVO), insbesondere im Mitgliedstaat des Aufenthaltsorts, des
+Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes.
+
+## 9. Änderungen
 
 Diese Datenschutzerklärung wird aktualisiert, wenn sich Funktionen, Dienstleister oder
 die Datenverarbeitung der App ändern.
