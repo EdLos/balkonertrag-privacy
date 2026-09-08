@@ -10,15 +10,16 @@ Eduard Losing<br>
 Ermiger Str. 26/1<br>
 89134 Blaustein<br>
 Deutschland<br>
-E-Mail: [edik.losing@googlemail.com](mailto:edik.losing@googlemail.com)
+E-Mail: [vitality.adepts@gmail.com](mailto:vitality.adepts@gmail.com)
 
 ## 2. Lokale App-Daten
 
 Balkonertrag benötigt kein Benutzerkonto. Angaben zu Anlagen, Zählerständen,
 Strompreisen und Einstellungen werden lokal auf dem verwendeten Gerät gespeichert.
 Diese fachlichen App-Daten werden von uns nicht auf eigene Server übertragen. Wir haben
-keinen Zugriff darauf. Die App enthält keine Analyse-, Tracking- oder
-Absturzberichts-SDKs.
+keinen Zugriff darauf. Die App enthält keine separaten Analyse- oder
+Absturzberichts-SDKs. Die Datenverarbeitung durch Google AdMob wird in Abschnitt 3
+beschrieben.
 
 Wenn Nutzer eine Export-, Backup- oder Teilen-Funktion auslösen, bestimmen sie selbst,
 an welche ausgewählte App oder Person die exportierten Daten weitergegeben werden.
