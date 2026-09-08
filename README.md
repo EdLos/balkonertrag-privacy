@@ -1,6 +1,6 @@
 # Datenschutzerklärung für Balkonertrag
 
-Stand: 7. September 2026
+Stand: 8. September 2026
 
 ## 1. Verantwortlicher
 
