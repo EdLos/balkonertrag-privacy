@@ -1,6 +1,6 @@
 # Datenschutzerklärung für Balkonertrag
 
-Stand: 8. September 2026
+Stand: 14. Oktober 2026
 
 ## 1. Verantwortlicher
 
@@ -58,9 +58,20 @@ Weitere Informationen:
 
 ## 4. Pro-Version und In-App-Kauf
 
-Der Pro-Kauf ist im derzeitigen Test-Build nur simuliert; es findet keine echte Zahlung
-statt. Vor Aktivierung eines produktiven In-App-Kaufs wird diese Erklärung um die dabei
-eingesetzten Store- und Kaufdienste sowie deren Datenverarbeitung ergänzt.
+Der optionale Pro-Zugang wird als In-App-Kauf ueber den Apple App Store beziehungsweise
+Google Play angeboten. Die Zahlungsabwicklung erfolgt ausschliesslich durch Apple oder
+Google nach deren Datenschutzbestimmungen. Wir erhalten keine vollstaendigen Zahlungs-
+oder Kreditkartendaten.
+
+Zur plattformuebergreifenden Verwaltung und Wiederherstellung des Kaufstatus verwenden
+wir RevenueCat (RevenueCat, Inc., USA). Dabei koennen insbesondere eine pseudonyme
+App-Nutzerkennung, Produkt- und Transaktionsinformationen, Kaufstatus, Store, Land und
+technische Diagnosedaten verarbeitet werden. Diese Daten werden nur zur Bereitstellung,
+Pruefung und Wiederherstellung des Pro-Zugangs verwendet. Weitere Informationen:
+
+- [Datenschutz bei Apple](https://www.apple.com/legal/privacy/)
+- [Datenschutz bei Google](https://policies.google.com/privacy)
+- [Datenschutz bei RevenueCat](https://www.revenuecat.com/privacy/)
 
 ## 5. Berechtigungen und Gerätefunktionen
 
